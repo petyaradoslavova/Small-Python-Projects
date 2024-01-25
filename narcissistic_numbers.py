@@ -9,5 +9,3 @@ def narcissistic(value):
 print(narcissistic(153))
 print(narcissistic(140))
 
-# for num in [int(n) for n in str(value)]:
-#     result += num ** len([int(n) for n in str(value)])
